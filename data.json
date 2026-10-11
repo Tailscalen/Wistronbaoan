@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-10-11T17:51:54.870Z",
+  "updated": "2026-10-11T17:55:26.891Z",
   "site": {
     "shortTitle": "An Ninh Wistron",
     "titleVi": "SOP Lưu Trình An Ninh",
@@ -18,23 +18,23 @@
   },
   "items": [
     {
-      "id": "sop1",
-      "type": "link",
-      "code": "",
-      "titleVi": "SOP ADM đăng ký vật phẩm ra vào",
-      "titleZh": "SOP ADM 物品进出登记流程",
-      "link": "https://tailscalen.github.io/ADMdangkyvatphamravaonhamay/",
-      "body": "",
-      "files": [],
-      "updated": ""
-    },
-    {
       "id": "sop2",
       "type": "link",
       "code": "",
       "titleVi": "SOP quy định ra vào nhà máy của nhà cung cấp",
       "titleZh": "SOP 供应商进出厂区规定",
       "link": "https://tailscalen.github.io/SOPquydinhvenhacungcap/",
+      "body": "",
+      "files": [],
+      "updated": ""
+    },
+    {
+      "id": "sop1",
+      "type": "link",
+      "code": "",
+      "titleVi": "SOP ADM đăng ký vật phẩm ra vào",
+      "titleZh": "SOP ADM 物品进出登记流程",
+      "link": "https://tailscalen.github.io/ADMdangkyvatphamravaonhamay/",
       "body": "",
       "files": [],
       "updated": ""
@@ -60,6 +60,24 @@
       "body": "",
       "files": [],
       "updated": ""
+    },
+    {
+      "id": "kiem-soat-danh-nhau",
+      "type": "page",
+      "code": "",
+      "titleVi": "kiểm soát đánh nhau",
+      "titleZh": "",
+      "link": "",
+      "body": "",
+      "files": [
+        {
+          "name": "beauty_20261011170557.jpg",
+          "path": "files/20261012-005505-3obl-beauty-20261011170557.jpg",
+          "size": 2686636,
+          "sha": "de439f3de39832aa867f8d6a96fc4c5b8f307840"
+        }
+      ],
+      "updated": "2026-10-11T17:55:26.889Z"
     }
   ]
 }
