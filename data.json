@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-10-11T18:18:02.937Z",
+  "updated": "2026-10-11T18:19:00.841Z",
   "site": {
     "shortTitle": "An Ninh Wistron",
     "titleVi": "SOP Lưu Trình An Ninh",
@@ -60,17 +60,6 @@
       "body": "",
       "files": [],
       "updated": ""
-    },
-    {
-      "id": "hi",
-      "type": "page",
-      "code": "",
-      "titleVi": "hi",
-      "titleZh": "",
-      "link": "",
-      "body": "<p><b>hihi xin chào</b></p>",
-      "files": [],
-      "updated": "2026-10-11T18:15:10.465Z"
     }
   ]
 }
