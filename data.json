@@ -1,0 +1,65 @@
+{
+  "version": 2,
+  "updated": "2026-10-11T17:49:14.495Z",
+  "site": {
+    "shortTitle": "SOP An Ninh",
+    "titleVi": "SOP Lưu Trình An Ninh",
+    "titleZh": "SOP 安保流程",
+    "intro": "",
+    "listVi": "Danh mục quy trình",
+    "listZh": "流程目录",
+    "logo": "files/20261012-004711-13e5-1000062026.png",
+    "hotlineVi": "Trực ban An Ninh",
+    "hotlineZh": "安保值班室",
+    "hotline": "0911 568 280",
+    "noticeVi": "",
+    "noticeZh": "",
+    "footer": ""
+  },
+  "items": [
+    {
+      "id": "sop1",
+      "type": "link",
+      "code": "",
+      "titleVi": "SOP ADM đăng ký vật phẩm ra vào",
+      "titleZh": "SOP ADM 物品进出登记流程",
+      "link": "https://tailscalen.github.io/ADMdangkyvatphamravaonhamay/",
+      "body": "",
+      "files": [],
+      "updated": ""
+    },
+    {
+      "id": "sop2",
+      "type": "link",
+      "code": "",
+      "titleVi": "SOP quy định ra vào nhà máy của nhà cung cấp",
+      "titleZh": "SOP 供应商进出厂区规定",
+      "link": "https://tailscalen.github.io/SOPquydinhvenhacungcap/",
+      "body": "",
+      "files": [],
+      "updated": ""
+    },
+    {
+      "id": "sop3",
+      "type": "link",
+      "code": "",
+      "titleVi": "An toàn thi công đối với nhà thầu",
+      "titleZh": "承包商施工安全管理规定",
+      "link": "https://tailscalen.github.io/SOPquydinhnhacungcap/",
+      "body": "",
+      "files": [],
+      "updated": ""
+    },
+    {
+      "id": "sop4",
+      "type": "link",
+      "code": "",
+      "titleVi": "Quy trình đăng ký vào làm việc tại nhà máy của nhà cung cấp",
+      "titleZh": "供应商进厂作业登记流程",
+      "link": "https://tailscalen.github.io/quy_trinh_dang_ky_vao_nha_may_cua_nha_cung_cao/",
+      "body": "",
+      "files": [],
+      "updated": ""
+    }
+  ]
+}
