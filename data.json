@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-10-11T18:19:00.841Z",
+  "updated": "2026-10-23T02:38:22.472Z",
   "site": {
     "shortTitle": "An Ninh Wistron",
     "titleVi": "SOP Lưu Trình An Ninh",
@@ -60,6 +60,24 @@
       "body": "",
       "files": [],
       "updated": ""
+    },
+    {
+      "id": "bao-cao-danh-gia-tinh-hinh-kiem-soat-an-ninh-nha",
+      "type": "page",
+      "code": "",
+      "titleVi": "Báo cáo đánh giá tình hình kiểm soát an ninh nhà máy",
+      "titleZh": "评估工厂安全管控情况的报告。",
+      "link": "",
+      "body": "",
+      "files": [
+        {
+          "name": "WVN各車間管控方案20261008  Báo cáo đánh giá tình hình kiểm soát an ninh nhà máy .xlsx",
+          "path": "files/20261023-093817-o8i4-wvn-20261008-bao-cao-danh-gia-tinh-hinh-kiem-soat-an-ninh-nh.xlsx",
+          "size": 22300,
+          "sha": "c63e27a3a363a8472cec6e02d9469f9d26537b3f"
+        }
+      ],
+      "updated": "2026-10-23T02:38:22.466Z"
     }
   ]
 }
